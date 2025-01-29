@@ -1,0 +1,6 @@
+.todo-background{
+    background-image: url("/public/todos1.png");
+    height: 100%;
+    background-size: cover;
+
+}
